@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Rimsha Naseem 👋
 
-<!--
-**muhammadzeshan8363-sudo/muhammadzeshan8363-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🤖 **Specialization:** AI Automation Specialist & Aspiring Machine Learning / AI App Developer
+- 🛠️ **Building:** AI Workflows, Custom Chatbots & Intelligent Applications
+- 🎯 **Current Focus:** Machine Learning Foundations, Python & AI App Building
+- 💼 **Solutions:** E-commerce customer support bots, automated workflows & lead pipelines
+- 📫 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/rimsha-naseem-596734331)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **AI & Automation:** n8n, Botpress, Voiceflow, ElevenLabs, OpenAI API
+- **ML & AI Development (In Progress):** Python, Machine Learning, HTML, CSS
+- **Tools & Environment:** VS Code, Docker Desktop, Windows PowerShell, Git & GitHub, Google Sites
+
+---
+
+### 📌 Featured Projects
+- 🤖 **AI HR Recruitment Pipeline:** Automated candidate screening & interview scheduling using n8n and AI models.
+- 💬 **E-Commerce Customer Support Bot:** AI chatbot for lead capture, WhatsApp integration, and automated responses.
+- 🧪 **ML & AI Apps:** *Building and adding Python & ML projects soon!*
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadzeshan8363-sudo&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzeshan8363-sudo&layout=compact&theme=radial)
