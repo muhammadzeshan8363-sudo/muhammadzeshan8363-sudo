@@ -19,7 +19,7 @@
 ###  Featured Projects
 -  **AI HR Recruitment Pipeline:** Automated candidate screening & interview scheduling using n8n and AI models.
 -  **E-Commerce Customer Support Bot:** AI chatbot for lead capture, WhatsApp integration, and automated responses.
--  **ML & AI Apps:** *Building and adding Python & ML projects soon!*
+-  **ML & AI Apps:** *Building and adding Python & ML projects!*
 
 ---
 
