@@ -11,7 +11,7 @@
 
 ### Tech Stack & Tools
 - **AI & Automation:** n8n, Botpress, Voiceflow, ElevenLabs, OpenAI API
-- **ML & AI Development (In Progress):** Python, Machine Learning, HTML, CSS
+- **ML & AI Development:** Python, Machine Learning, HTML, CSS
 - **Tools & Environment:** VS Code, Docker Desktop, Windows PowerShell, Git & GitHub, Google Sites
 
 ---
